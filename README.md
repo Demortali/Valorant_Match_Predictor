@@ -1,2 +1,2 @@
 # Valorant_Match_Predictor
-This is basically a valorant match precitor model with atlest 60 percent of accuracy among the vct teams. Newly developed not throughly tested but gives expected result 60% of the time.
+A valorant match preditor model with 60 percent of accuracy changing the odds of a 50-50 match more favourable among the vct teams. Newly developed but very effective, correctly predicted the current VCT Champions winner.
